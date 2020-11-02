@@ -4,7 +4,7 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2020-10-27</lastmod>
+     <lastmod>2020-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,13 +13,13 @@
         
     <url>
      <loc>None/lab_protocols/00_Introduction_to_protocols/</loc>
-     <lastmod>2020-10-27</lastmod>
+     <lastmod>2020-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/lab_protocols/bacterial_transformation/</loc>
-     <lastmod>2020-10-27</lastmod>
+     <lastmod>2020-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -29,25 +29,31 @@
         
     <url>
      <loc>None/notes/01_Lab_safety/</loc>
-     <lastmod>2020-10-27</lastmod>
+     <lastmod>2020-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/notes/02_DNA_basics/</loc>
-     <lastmod>2020-10-27</lastmod>
+     <lastmod>2020-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/notes/03_Measurement/</loc>
-     <lastmod>2020-10-27</lastmod>
+     <lastmod>2020-11-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/notes/04_sciencemethod/</loc>
+     <lastmod>2020-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/notes/pipetting_demo/</loc>
-     <lastmod>2020-10-27</lastmod>
+     <lastmod>2020-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -57,13 +63,13 @@
         
     <url>
      <loc>None/review_sheets/Quiz_II_Scientific_Method/</loc>
-     <lastmod>2020-10-27</lastmod>
+     <lastmod>2020-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/review_sheets/Quiz_I_lab_safety_and_measurement/</loc>
-     <lastmod>2020-10-27</lastmod>
+     <lastmod>2020-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -73,13 +79,13 @@
         
     <url>
      <loc>None/science_methodology_concepts/00_Introduction_to_the_concepts/</loc>
-     <lastmod>2020-10-27</lastmod>
+     <lastmod>2020-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/science_methodology_concepts/01_Method/</loc>
-     <lastmod>2020-10-27</lastmod>
+     <lastmod>2020-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
