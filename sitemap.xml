@@ -4,7 +4,7 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2020-12-21</lastmod>
+     <lastmod>2021-01-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,7 +13,13 @@
         
     <url>
      <loc>None/Writing_Corner/01_Writing_Corner/</loc>
-     <lastmod>2020-12-21</lastmod>
+     <lastmod>2021-01-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/Writing_Corner/02_Lab_writeups/</loc>
+     <lastmod>2021-01-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -23,25 +29,25 @@
         
     <url>
      <loc>None/lab_protocols/00_Introduction_to_protocols/</loc>
-     <lastmod>2020-12-21</lastmod>
+     <lastmod>2021-01-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/lab_protocols/Mitocondrial_sequencing_at_home/</loc>
-     <lastmod>2020-12-21</lastmod>
+     <lastmod>2021-01-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/lab_protocols/bacterial_transformation/</loc>
-     <lastmod>2020-12-21</lastmod>
+     <lastmod>2021-01-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/lab_protocols/pipetting_demo/</loc>
-     <lastmod>2020-12-21</lastmod>
+     <lastmod>2021-01-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -51,49 +57,49 @@
         
     <url>
      <loc>None/notes/01_Lab_safety/</loc>
-     <lastmod>2020-12-21</lastmod>
+     <lastmod>2021-01-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/notes/02_DNA_basics/</loc>
-     <lastmod>2020-12-21</lastmod>
+     <lastmod>2021-01-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/notes/03_Measurement/</loc>
-     <lastmod>2020-12-21</lastmod>
+     <lastmod>2021-01-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/notes/04_Science_Method/</loc>
-     <lastmod>2020-12-21</lastmod>
+     <lastmod>2021-01-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/notes/05_Lab_Math/</loc>
-     <lastmod>2020-12-21</lastmod>
+     <lastmod>2021-01-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/notes/06_Mitocondrial_DNA/</loc>
-     <lastmod>2020-12-21</lastmod>
+     <lastmod>2021-01-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/notes/07_PCR_Basics/</loc>
-     <lastmod>2020-12-21</lastmod>
+     <lastmod>2021-01-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/notes/08_Electrophoresis_and_Sequencing_Basics/</loc>
-     <lastmod>2020-12-21</lastmod>
+     <lastmod>2021-01-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -103,25 +109,25 @@
         
     <url>
      <loc>None/review_sheets/Quiz_III_Moles_and_Mitochondria/</loc>
-     <lastmod>2020-12-21</lastmod>
+     <lastmod>2021-01-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/review_sheets/Quiz_II_Scientific_Method/</loc>
-     <lastmod>2020-12-21</lastmod>
+     <lastmod>2021-01-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/review_sheets/Quiz_IV_PCR/</loc>
-     <lastmod>2020-12-21</lastmod>
+     <lastmod>2021-01-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/review_sheets/Quiz_I_lab_safety_and_measurement/</loc>
-     <lastmod>2020-12-21</lastmod>
+     <lastmod>2021-01-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -131,19 +137,19 @@
         
     <url>
      <loc>None/science_methodology_concepts/00_Introduction_to_the_concepts/</loc>
-     <lastmod>2020-12-21</lastmod>
+     <lastmod>2021-01-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/science_methodology_concepts/01_Method/</loc>
-     <lastmod>2020-12-21</lastmod>
+     <lastmod>2021-01-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/science_methodology_concepts/02_Ethics/</loc>
-     <lastmod>2020-12-21</lastmod>
+     <lastmod>2021-01-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
