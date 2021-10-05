@@ -7,13 +7,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
   
+  
   <link rel="shortcut icon" href="../../img/favicon.ico">
   <title>Pipetting demo - Fall 2021 - Spring 2022 Science Institute</title>
-  <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
 
-  <link rel="stylesheet" href="../../css/theme.css" type="text/css" />
-  <link rel="stylesheet" href="../../css/theme_extra.css" type="text/css" />
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+  <link rel="stylesheet" href="../../css/theme.css" />
+  <link rel="stylesheet" href="../../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
   
   <script>
     // Current page data
@@ -24,9 +25,8 @@
   
   <script src="../../js/jquery-2.1.1.min.js" defer></script>
   <script src="../../js/modernizr-2.8.3.min.js" defer></script>
-  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
   <script>hljs.initHighlightingOnLoad();</script> 
-  
 </head>
 
 <body class="wy-body-for-nav" role="document">
@@ -35,158 +35,79 @@
 
     
     <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
       <div class="wy-side-nav-search">
         <a href="../.." class="icon icon-home"> Fall 2021 - Spring 2022 Science Institute</a>
         <div role="search">
   <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
-    <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
   </form>
 </div>
       </div>
 
       <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
-	<ul class="current">
-	  
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="../..">Home</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <span class="caption-text">Writing Corner</span>
-    <ul class="subnav">
-                <li class="">
-                    
-    <a class="" href="../../Writing_Corner/01_Writing_Corner/">Writing Corner</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../../Writing_Corner/02_Lab_writeups/">02 Lab writeups</a>
-                </li>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../..">Home</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Writing Corner</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../Writing_Corner/01_Writing_Corner/">Writing Corner</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../Writing_Corner/02_Lab_writeups/">02 Lab writeups</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Lab protocols</span></p>
+                <ul class="current">
+                    <li class="toctree-l1"><a class="reference internal" href="../00_Introduction_to_protocols/">How to use protocols in this course</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../GMO_lab/">GMO lab</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../Mitocondrial_sequencing_at_home/">Mitocondrial sequencing at home</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../bacterial_transformation/">Bacterial transformation</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../dna_barcoding_lab/">Dna barcoding lab</a>
+                    </li>
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Pipetting demo</a>
+    <ul class="current">
     </ul>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <span class="caption-text">Lab protocols</span>
-    <ul class="subnav">
-                <li class="">
-                    
-    <a class="" href="../00_Introduction_to_protocols/">How to use protocols in this course</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../GMO_lab/">GMO lab</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../Mitocondrial_sequencing_at_home/">Mitocondrial sequencing at home</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../bacterial_transformation/">Bacterial transformation</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../dna_barcoding_lab/">Dna barcoding lab</a>
-                </li>
-                <li class=" current">
-                    
-    <a class="current" href="./">Pipetting demo</a>
-    <ul class="subnav">
-            
-    <li class="toctree-l3"><a href="#01-micropipette-measurement-and-error-lab">01 Micropipette Measurement and Error Lab</a></li>
-    
-
-    <li class="toctree-l3"><a href="#error">Error</a></li>
-    
-        <ul>
-        
-            <li><a class="toctree-l4" href="#pipetting-exercise">Pipetting Exercise</a></li>
-        
-            <li><a class="toctree-l4" href="#error-table">Error table</a></li>
-        
-            <li><a class="toctree-l4" href="#calculating-the-difference-in-error">Calculating the difference in error</a></li>
-        
-        </ul>
-    
-
-    </ul>
-                </li>
-    </ul>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <span class="caption-text">Notes</span>
-    <ul class="subnav">
-                <li class="">
-                    
-    <a class="" href="../../notes/01_Lab_safety/">01 Lab safety</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../../notes/02_DNA_basics/">02 DNA basics</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../../notes/03_Measurement/">03 Measurement</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../../notes/04_Science_Method/">04 Science Method</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../../notes/05_Lab_Math/">05 Lab Math</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../../notes/06_Mitocondrial_DNA/">06 Mitocondrial DNA</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../../notes/07_PCR_Basics/">07 PCR Basics</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../../notes/08_Electrophoresis_and_Sequencing_Basics/">08 Electrophoresis and Sequencing Basics</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../../notes/09_GMO_foods/">09 GMO foods</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../../notes/10_DNA_Barcoding/">10 DNA Barcoding</a>
-                </li>
-    </ul>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <span class="caption-text">Science methodology concepts</span>
-    <ul class="subnav">
-                <li class="">
-                    
-    <a class="" href="../../science_methodology_concepts/00_Introduction_to_the_concepts/">Introduction to these concepts</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../../science_methodology_concepts/01_Method/">Method</a>
-                </li>
-                <li class="">
-                    
-    <a class="" href="../../science_methodology_concepts/02_Ethics/">Ethics</a>
-                </li>
-    </ul>
-	    </li>
-          
-        </ul>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Notes</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../notes/01_Lab_safety/">01 Lab safety</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../notes/02_DNA_basics/">02 DNA basics</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../notes/03_Measurement/">03 Measurement</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../notes/04_Science_Method/">04 Science Method</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../notes/05_Lab_Math/">05 Lab Math</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../notes/06_Mitocondrial_DNA/">06 Mitocondrial DNA</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../notes/07_PCR_Basics/">07 PCR Basics</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../notes/08_Electrophoresis_and_Sequencing_Basics/">08 Electrophoresis and Sequencing Basics</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../notes/09_GMO_foods/">09 GMO foods</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../notes/10_DNA_Barcoding/">10 DNA Barcoding</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Science methodology concepts</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../science_methodology_concepts/00_Introduction_to_the_concepts/">Introduction to these concepts</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../science_methodology_concepts/01_Method/">Method</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../science_methodology_concepts/02_Ethics/">Ethics</a>
+                    </li>
+                </ul>
       </div>
-      &nbsp;
+    </div>
     </nav>
 
     <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
@@ -215,8 +136,10 @@
       
     </li>
   </ul>
+  
   <hr/>
 </div>
+
           <div role="main">
             <div class="section">
               
@@ -316,35 +239,32 @@
 <p>According to Eppendorf, pipettes should have the following amount of error (pipettes we used are highlighted)
 <img alt="" src="../../notes/img/02_pipette_error.png" /></p>
 <p>So for example, a blue pipette measuring 1000ul can will typically have up to 0.6 percent error. We can calculate this in the following cell:</p>
-<pre><code class="python"># 1000ul multiplied by 0.6%
+<pre><code class="language-python"># 1000ul multiplied by 0.6%
 1000 * 0.006
 </code></pre>
-
 <pre><code>6.0
 </code></pre>
 <p>So, our measurement is usually off by about 6 microliters.
 This is the systemic error. If we also add the random error we get:</p>
-<pre><code class="python"># 1000ul multiplied by 0.6% + 0.2%
+<pre><code class="language-python"># 1000ul multiplied by 0.6% + 0.2%
 1000 * (0.006 + 0.002)
 </code></pre>
-
 <pre><code>8.0
 </code></pre>
 <p>Including the random error we can be off by as much as 8 microliters.</p>
 <h2 id="calculating-the-difference-in-error">Calculating the difference in error</h2>
 <p>If we know what our expected error is (e.g. 8ul) what if our observed error is more than this (lets say 15 ul). What is the difference?</p>
-<pre><code class="python">Expected_error = 8
+<pre><code class="language-python">Expected_error = 8
 Observed_error = 15
 
 #abs stands for absolute value
 difference_in_error = abs(Expected_error - Observed_error)/((Expected_error + Observed_error)/2)*100
 print(difference_in_error)
 </code></pre>
-
 <pre><code>60.86956521739131
 </code></pre>
 <p>In our example above there was a 60% difference. Given your values, what percent error did you see?</p>
-<pre><code class="python"># change these two number to what are correct in your case
+<pre><code class="language-python"># change these two number to what are correct in your case
 Expected_error = 8
 Observed_error = 15
 
@@ -374,7 +294,7 @@ print(difference_in_error)
     
   </div>
 
-  Built with <a href="http://www.mkdocs.org">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
 </footer>
       
         </div>
@@ -384,20 +304,26 @@ print(difference_in_error)
 
   </div>
 
-  <div class="rst-versions" role="note" style="cursor: pointer">
-    <span class="rst-current-version" data-toggle="rst-current-version">
-      
-      
-        <span><a href="../dna_barcoding_lab/" style="color: #fcfcfc;">&laquo; Previous</a></span>
-      
-      
-        <span style="margin-left: 15px"><a href="../../notes/01_Lab_safety/" style="color: #fcfcfc">Next &raquo;</a></span>
-      
-    </span>
+  <div class="rst-versions" role="note" aria-label="versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../dna_barcoding_lab/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../../notes/01_Lab_safety/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
 </div>
     <script>var base_url = '../..';</script>
+    <script src="../../js/theme_extra.js" defer></script>
     <script src="../../js/theme.js" defer></script>
       <script src="../../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
 
 </body>
 </html>
